@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the Scots martch from Barwicke to Newcastle with eighteene thousand foot, three thousand horse, five hundred dragoons, and a hundred and twenty peeces of ordnance : also, their message to the governour of Newcastle, and their propositions to the cavaliers, and their severall answers about the surrendring of Newcastle : together, with a relation of 11 of the Earle of Warwicks ships appointed to fall upon 7 ships which lay at Newcastle, laden with malignants goods, intended for Holland : as it was delivered to the Parliament / by a messenger from the Scots armie.</title>
+            <author>Messenger from the Scots Armie.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40624</idno>
+            <idno type="STC">Wing F2370</idno>
+            <idno type="STC">ESTC R6965</idno>
+            <idno type="EEBO-CITATION">11798709</idno>
+            <idno type="OCLC">ocm 11798709</idno>
+            <idno type="VID">49338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 493:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the Scots martch from Barwicke to Newcastle with eighteene thousand foot, three thousand horse, five hundred dragoons, and a hundred and twenty peeces of ordnance : also, their message to the governour of Newcastle, and their propositions to the cavaliers, and their severall answers about the surrendring of Newcastle : together, with a relation of 11 of the Earle of Warwicks ships appointed to fall upon 7 ships which lay at Newcastle, laden with malignants goods, intended for Holland : as it was delivered to the Parliament / by a messenger from the Scots armie.</title>
+                  <author>Messenger from the Scots Armie.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49338:1"/>
+            <pb facs="tcp:49338:1"/>
+            <p>A FULL RELATION OF THE Scots martch FROM BARWICKE <hi>to</hi> NEWCASTLE, WITH Eighteene thouſand Foot, three thouſand Horſe, five hundred Dragoons, and a hundred and twenty Peeces of Ordnance.</p>
+            <p>Alſo, their Meſſage to the Governour of Newcaſtle, and their Propoſitions to the Cava<g ref="char:EOLhyphen"/>liers, and their ſeverall Anſwers about the ſurrendring of Newcaſtle.</p>
+            <p>Together, with a Relation of 11. of the Earle of Warwicks Ships appointed to fall upon 7. Ships which lay at Newcaſtle, laden with Malignants goods, intended for Holland; As it was delivered to the Parliament,</p>
+            <p>By a Meſſenger from the SCOTS ARMIE.</p>
+            <p>LONDON, Printed by <hi>Andrew Coe,</hi> according to Order. 1844.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49338:2"/>
+            <pb facs="tcp:49338:2"/>
+            <head>A FVL RELATION OF THE SCOTS MARCH FROM BARWICK TO Newcaſtle:</head>
+            <p>THere is no cauſe why we ſholud conceive that our brethren of Scotland have delayed in any wiſe their coming, though they have not been here ſo ſoon as ſome expected, but rather that we ſhould give God praiſe for their ſo ſoon and ſpeedy march.</p>
+            <p>Firſt, Conſidering the great Army which they have raiſed, and proviſion for them, which to be done orderly, and by the brotherly aſſiſtance of that whole Kingdome, is a great worke and asketh long time.</p>
+            <p>Secondly, Becauſe they are not onely ayding and aſſi<g ref="char:EOLhyphen"/>ſting unto us, but alſo to our brethren of Ireland, who are brought to a very low and moſt miſerable condition, in ſomuch that information from thence have certified the Kirke of Scotland that 200 at the leaſt of the Scots are ſtarved to death in Ireland for want.</p>
+            <p>
+               <pb facs="tcp:49338:3"/>
+Thirdly, Their chiefe Ingenier hath formed a new kinde of great guns, never before diſcovered, which were made purpoſely for this deſigne, above three quarters of a yard long, or ſome a yard, that will carry a twelve pound bullet, to doe good execution at a good diſtance, and yet ſo fra<g ref="char:EOLhyphen"/>med that a horſe may carry one of them, all which tooke up a great deal of time.</p>
+            <p>Yet nevertheleſſe, bleſſed be God, they are now come into England, their number being 18000 foote 3000 horſe, and between 4 and 500 Dragoneers, and they bring along with them 120 great guns, and other train of Ammuni<g ref="char:EOLhyphen"/>tion, very full and large, which came to Barwick by Sea, and there met the Armie in a convenient time, and was pre<g ref="char:EOLhyphen"/>pared ready for them in their march.</p>
+            <p>On Tueſday the 18 of January laſt they marched to Barwick, and that day was a ſore day to them, by reaſon of great ſtormes and ſuow, that fell all the day long, and yet ſuch was their valiant reſolutions and deſire of expedition, that they came 18 Scotch miles that day to reach Barwick, which is at the leaſt as much as 23 or 24 of our miles here.</p>
+            <p>They billited about Barwick that night, and there received their train of Artllerie, which they neglected not, though after ſo long and wearieſome a dayes journey, and the next day, being January the 19 they marchèd out of Barwick one Regiment after another, as conveniently as they could obtain fit quarter in thoſe parts.</p>
+            <p>Our brethren of Scotland brought along with them printed Declarations of the Kingdome of Scotland, for information and ſatisfaction to their bretheren of England, concerning their preſenr expedition, viz.</p>
+            <p>Whereas the greateſt Queſtions that are like to ariſe in ths buſineſſe may be reduced to theſe three particulars, <hi>viz. The iuſtneſſe of our cauſe: The lawfulneſſe of our calling
+<pb facs="tcp:49338:3"/>thereto:</hi> And <hi>The faithfulneſſe of our carriages therein:</hi> our brethren of Scotland will hereby endeavour to give ſatis<g ref="char:EOLhyphen"/>faction in them all and doubt not to doe it, unleſſe there remain ſome, whoſe inveterate malice hath produced in them a reſolution to be unſatisfied.</p>
+            <p>This their Declaration gave the country ſo good ſatis<g ref="char:EOLhyphen"/>faction, that they found no oppoſition, and they doe car<g ref="char:EOLhyphen"/>ry themſelves ſo civill and well, and without offring the leaſt wrong to any where they come, that the country are exceeding glad of their being come.</p>
+            <p>When the meſſenger that brought the meſſage to the Parliament yeſterday, left the Scots Army, which was on Wedneſday laſt, then they were at Addeſtone, within ſome ſix miles from Anſwick in their march towards Newcaſtle, which is about ſome twenty eight Engliſh miles, and then a Letter was prepared to be ſent to Colo<g ref="char:EOLhyphen"/>nell Glemham the Governour of Newcaſtle; to require the delivery of the ſame up to the uſe of the Parliament, in England, and he doth verily beleive that by this time they can give account of the ſame: for on Satterday laſt they intended to be before Newcaſtle.</p>
+            <p>Colonell Glemham, it ſeems had marched out of New<g ref="char:EOLhyphen"/>caſtle with a party, ſuch ſtrength as he could make; and the Letters were delivered to him, which came from our brethren of Scotland, ſent from both the Chairmen of the Committees of England and Scotland, which was ve<g ref="char:EOLhyphen"/>ry faire, and declared, that they did not deſire blood, but to bring in thoſe delinquents to juſtice, who ſeek to divert his Majeſty from the Parliament. The Letter was delive<g ref="char:EOLhyphen"/>red to Colonell Glemham, and by him read to the Army then with him, which himſelfe would not deny but that it was very faire; and ſo made unto them three Propoſitions, at the reading of the ſaid Letter.</p>
+            <list>
+               <pb facs="tcp:49338:4"/>
+               <item>1. Whether the country ſhould be burnt up before them and all deſtroyed and ſaid waſt: To this it was anſwered, no, which they had reaſon ſo to doe, becauſe there were then preſent many of the Gentry of thoſe parts, who had intereſt in the land there.</item>
+               <item>2. Whether they ſhould oppoſe the Scots, and ſend them a deniall. To which it was anſwered, that they were altogether unable to oppoſe them, becauſe they being but two thouſand foot, and ſome few horſe, it would be in vain to ſtand againſt them.</item>
+               <item>3. Whether an anſwer ſhould be returned to the ſaid letters, to which ſome ſaid that it were beſt, firſt to ſend to the Earle of Newcaſtle, to know his mind: others, that it were convenient firſt to ſend to Oxford, before an an<g ref="char:EOLhyphen"/>ſwer be returned.</item>
+            </list>
+            <p>But it is very probable, that by this time our brethren of Scotland are poſſeſt of Newcaſtle, for the country Gen<g ref="char:EOLhyphen"/>tlemen came ſo faſt in to our brethren of Scotland, that it cauſed the reſt of the country to follow, ſo that their Army doth much increaſe.</p>
+            <p>And where as it is ſuppoſed that Tinmouth caſtle will be hard to be gained, our brethren of Scotland make no great matter of it, and beſides, the Earle of Newcaſtle is preparing thitherward.</p>
+            <p>The meſſenger further reporteth, that as he ſailed by the mouth of the channell which leadeth to Newcaſtle, he ſaw ſome ſeven ſhips or more which ſeemed to be fraught, and upon inquiry, it was certified that they were laden with malignants goods ſuppoſed for Holland, whereof he gave notice to ſome Commanders under the Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Admirall, who appointed eleven ſhips to wait their comming out, and if they came not forth before Satterday, the day ap<g ref="char:EOLhyphen"/>pointed by our brethren of Scotland to be at Newcaſtle, then to fall in and ſteale upon them.</p>
+            <p>
+               <pb facs="tcp:49338:4"/>
+Now that our brethren of Scotland may not be looked upon with the prejudice of ſtrangers, we hope this firm union of this mutuall Cove<g ref="char:EOLhyphen"/>nant will wear out, There is a Committee of our own Nation, the moſt of which are Parliament men, ſuch to whom they have committed the truſt and care of their Religion, Lawes and Li<g ref="char:EOLhyphen"/>berties, joyned with them, without whoſe con<g ref="char:EOLhyphen"/>currence nothing that concerns us is to be tranſ<g ref="char:EOLhyphen"/>acted. And to free us of all unjuſt ſuſpicion, which if our mindes are not ready to conceive, yet the malitious mouths of our adverſaries and theirs are ready to ſuggeſt, that notwithſtanding their Declaration, they have ſome ſiniſter and ſecret ends, which may prove preiudiciall to our rights and happines: It is hereby made known to us, that they have freely engaged themſelves, by an Article of the late treaty betwixt the Nations, to give the publike Faith of the Kingdome of Scotland unto the Kingdom of England, that neither their entrance into, nor continuance in this Kingdom, ſhalbe made uſe of to any other ends then expreſſed in the Covenant, and that treaty ſubſcribed to them by the commiſsioners of both Kingdomes, which they are reſolved, to the honor of God and of this Nation, to keep in<g ref="char:EOLhyphen"/>violate.</p>
+            <p>
+               <pb facs="tcp:49338:5" rendition="simple:additions"/>
+And they declare, that they are ſo far from deſi<g ref="char:EOLhyphen"/>ring harm or loſſe to any of their Brethren of En<g ref="char:EOLhyphen"/>gland, that their ſincere and reall intentions are not to adde fuell, nor bring oyl, but water to ex<g ref="char:EOLhyphen"/>tinguiſh theſe lamentable combuſtions and fires, which they have with ſo much duty and love la<g ref="char:EOLhyphen"/>boured to quench: That their taking of armes is not to make Wars (if they be not neceſsitated) but to obtaine a better grounded and more durable Peace, for enjoying our Religion and Liberties in all the three Kingdoms: and that the wicked (who are the unworthy authors of all our troubles) be<g ref="char:EOLhyphen"/>ing removed from our King, a right underſtand<g ref="char:EOLhyphen"/>ing may be eſtabliſhed betwixt his Majeſty and his people. And as they have ſolemnly ſworn to protect all who ſhall adhere to this covenant: So do they certainly expect, that all their brethren in England who are zealous for the true Proteſtant Religion, loyall to the King, and faithful for their country, will joyn with them in procuring theſe iuſt deſires: Which being obtained, they ſhall be moſt willing and ready to returne to their native Country, eſteeming it their greateſt happineſſe, that Truth with Peace may be eſtabliſhed in all his Maieſties Dominions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
